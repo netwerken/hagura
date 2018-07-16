@@ -16,7 +16,7 @@ function theme() {
     else if( sessionStorage.getItem('bg') === 'rgb(6, 23, 37)') {
         
         sessionStorage.setItem('bg', 'rgb(255, 255, 255)');
-        sessionStorage.setItem('cc', '#333');
+        sessionStorage.setItem('cc', '#001a33');
         
   
     }
